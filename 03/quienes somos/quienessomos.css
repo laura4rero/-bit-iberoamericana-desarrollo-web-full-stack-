@@ -1,0 +1,72 @@
+.head {
+    width: 100%;
+    height: 200px;
+    background-color: #284997;
+}
+.section1 {
+    height: 100%; 
+    width: 50%; 
+    float:left; 
+    color: white; 
+    display: flex;
+    align-items: center
+}
+p {
+    padding-left: 10px;
+}
+.section2 {
+    height: 100%; 
+    width: 50%; 
+    float:left; 
+    display: flex; 
+    justify-content: center;
+}
+.imagenelectronica{
+    width:50%; 
+    height:100%; 
+    float:left;" src="IMAGEN ELEC.jpg" alt="electronica"
+}
+h3 {
+    color: #284997;
+}
+.section3 {
+    width:100%; 
+    height: 200px; 
+    display: flex; 
+    justify-content: center;
+}
+.icons {
+    width:50%; 
+    height: 100%;  
+    display: grid; 
+    grid-template-columns: 33% 33% 33%; 
+    grid-template-rows: 100%; 
+    grid-gap:5px;
+}
+.imagen1 {
+    width: 100%; 
+    height: 100%;
+}
+.calidad {
+    display:block; 
+    width: 100%; 
+    text-align: center;"
+}
+.imagen2 {
+    idth: 100%; 
+    height: 100%
+}
+.rapidez {
+    display:block; 
+    width: 100%; 
+    text-align: center
+}
+.imagen3 {
+    width: 100%; 
+    height: 100%
+}
+.ideas {
+    display:block; 
+    width: 100%; 
+    text-align: center
+}
