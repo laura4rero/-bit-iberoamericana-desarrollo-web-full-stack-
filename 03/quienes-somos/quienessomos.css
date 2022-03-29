@@ -9,7 +9,7 @@
     float:left; 
     color: white; 
     display: flex;
-    align-items: center
+    align-items: center;
 }
 p {
     padding-left: 10px;
@@ -50,25 +50,25 @@ h3 {
 .calidad {
     display:block; 
     width: 100%; 
-    text-align: center;"
+    text-align: center;
 }
 .imagen2 {
     idth: 100%; 
-    height: 100%
+    height: 100%;
 }
 .rapidez {
     display:block; 
     width: 100%; 
-    text-align: center
+    text-align: center;
 }
 .imagen3 {
     width: 100%; 
-    height: 100%
+    height: 100%;
 }
 .ideas {
     display:block; 
     width: 100%; 
-    text-align: center
+    text-align: center;
 }
 .Lineadiv {
     color: #284997
@@ -86,4 +86,26 @@ h3 {
 }
 h4 {
     color: #284997
+}
+.head2 {
+    width: 100%; 
+    height: 300px;
+}
+.head3 {
+    width: 100%; 
+    height: 300px;
+}
+.section6 {
+    height:100%; 
+    width: 50%;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+.section7 {
+    height: 100%;
+    width: 50%;
+    float: left;
+    display: flex; 
+    justify-content: center;
 }
