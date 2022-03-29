@@ -70,3 +70,20 @@ h3 {
     width: 100%; 
     text-align: center
 }
+.Lineadiv {
+    color: #284997
+}
+.head1 {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.headinfo {
+    color: #284997
+}
+.iconotelefono {
+    color: #284997
+}
+h4 {
+    color: #284997
+}
