@@ -1,0 +1,76 @@
+h3 {
+    color:#284997;
+    text-align: center;
+}
+.carousel {
+position: relative;
+}
+.carousel__item {
+height: 500px;
+background: grey;
+padding: 1em;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+font-size: 1em;
+color: #ffffff;
+display:none
+}
+.carousel__item--selected {
+display: block;
+}
+.carousel__nav{
+width: 100%;
+padding: 20px 0;
+position: absolute;
+bottom: 0;
+left: 0;
+background-color:#415c9c ;
+text-align: center;
+}
+.carousel__button {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.carousel__button--selected {
+    background: rgba(255, 255, 255, 0.8);  
+}
+.uno {
+    height: 400px;
+    width: 300px;
+    display: flex;top: auto;
+    margin-top: 30px;
+}
+.dos {
+    height: 400px;
+    width: 300px;
+    display: flex;top: auto;
+    margin-top: 30px;
+}
+.tres {
+    height: 400px;
+    width: 600px;
+    display: flex;top: auto;
+    margin-top: 30px;
+}
+.Lineadiv {
+    color: #284997
+}
+.headinfo {
+    color: #284997
+}
+.iconotelefono {
+    color: #284997
+}
+h4 {
+    color: #284997
+}
+.head1 {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
