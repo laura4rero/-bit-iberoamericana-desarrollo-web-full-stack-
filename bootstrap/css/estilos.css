@@ -1,3 +1,8 @@
+html, body 
+{
+    width: 100%;
+    height: 100%;
+}
 .letras-nav
 {
     color:#e9ecf3;
@@ -5,4 +10,8 @@
 .propiedades-navbar{
     min-height: 4rem;
     background-color: #284997;
+}
+.frontpageimage {
+    display: flex; 
+    justify-content: center;
 }
